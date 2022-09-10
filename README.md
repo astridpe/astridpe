@@ -5,6 +5,8 @@
 
 ## I'm a student with a passion for developing both frontend and backend solutions. 
 
+- 🎓 Taking a bachelor's degree in Applied Computer Technology, Oslo Metropolitan University, spring 2023
+- 📫 How to reach me: astridpettersen13@gmail.com
 - 🔭 I’m currently working on a flashcard-application.
 - 🌱 I’m currently learning React Native, .Net Core, Kubernetes and Docker. 
 - 💬 Ask me about ... Anything
