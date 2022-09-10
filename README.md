@@ -1,5 +1,8 @@
 ### Hello World, I'm Astrid 👋
 
+<img align="center" alt="GIF" src="https://github.com/astridpe/astridpe/blob/main/AstridPettersen_Banner.png"/>
+
+
 <!--
 **astridpe/astridpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
