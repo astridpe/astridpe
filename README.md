@@ -1,6 +1,5 @@
 ### Hello World, I'm Astrid 👋
 
-<li>
 
 <img align="center" alt="GIF" src="https://github.com/astridpe/astridpe/blob/main/AstridPettersen_Banner.png"/>
 
