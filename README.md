@@ -12,7 +12,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I love to bake aaaand to drink coffee.  
 
-### Contact me, and we can have a coffee together:
+### Contact me:
 [<img align="left" alt="astrid pettersen linkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="astrid pettersen Instagram| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
