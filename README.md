@@ -1,11 +1,11 @@
-# Hello there, I'm Astrid 👋
+# Hello there, I'm Astrid!
 
 
 <img alt="GIF" src="https://github.com/astridpe/astridpe/blob/main/AstridPettersen_design3.png"/>
 
 ## I'm a student with a passion for developing both frontend and backend solutions. 
 
-- 🔭 I’m currently working on a flashcard-application, to help me study better.
+- 🔭 I’m currently working on a flashcard-application.
 - 🌱 I’m currently learning React Native, .Net Core, Kubernetes and Docker. 
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
