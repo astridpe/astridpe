@@ -1,4 +1,4 @@
-### Hello World, I'm Astrid 👋
+# Hello there, I'm Astrid 👋
 
 
 <img alt="GIF" src="https://github.com/astridpe/astridpe/blob/main/AstridPettersen_Banner.png"/>
