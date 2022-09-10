@@ -1,7 +1,7 @@
 # Hello there, I'm Astrid!
 
 
-<img alt="GIF" src="https://github.com/astridpe/astridpe/blob/main/AstridPettersen_design3.png"/>
+<img alt="GIF" src="https://github.com/astridpe/astridpe/blob/main/AstridPettersen_design2-v1.3.png"/>
 
 ## I'm a student with a passion for developing both frontend and backend solutions. 
 
