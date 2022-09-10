@@ -5,13 +5,12 @@
 
 ## I'm a student with a passion for developing both frontend and backend solutions. 
 
-🎓 Taking a bachelor's degree in Applied Computer Technology, Oslo Metropolitan University, spring 2023
-📫 How to reach me: astridpettersen13@gmail.com
-🔭 I’m currently working on a flashcard-application.
-🌱 I’m currently learning React Native, .Net Core, Kubernetes and Docker. 
-💬 Ask me about ... Anything
-😄 Pronouns: She/Her
-⚡ Fun fact: I love to bake aaaand to drink coffee.  
+- 🎓 Taking a bachelor's degree in Applied Computer Technology, Oslo Metropolitan University, spring 2023
+- 📫 How to reach me: astridpettersen13@gmail.com
+- 🔭 I’m currently working on a flashcard-application.
+- 🌱 I’m currently learning React Native, .Net Core, Kubernetes and Docker. 
+- 💬 Ask me about ... Anything
+- ⚡ Fun fact: I love to bake aaaand to drink coffee.  
 
 ### Contact me, and we can have a coffee together:
 [<img align="left" alt="astrid pettersen linkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
