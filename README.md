@@ -1,6 +1,8 @@
 # Hello there, I'm Astrid!
 
+
 <img alt="GIF" src="https://github.com/astridpe/astridpe/blob/main/AstridPettersen_design2-v1.5.png"/>
+
 
 - 🎓 Taking a master's degree in Cloud-based Services and Operations, Oslo Metropolitan University, Spring 2025
 - 🔭 I’m currently working on a school project
