@@ -1,18 +1,13 @@
 # Hello there, I'm Astrid!
 
-
 <img alt="GIF" src="https://github.com/astridpe/astridpe/blob/main/AstridPettersen_design2-v1.5.png"/>
 
-## I'm a student with a passion for developing both frontend and backend solutions. 
-
-- 🎓 Taking a bachelor's degree in Applied Computer Technology, Oslo Metropolitan University, spring 2023
-- 📫 How to reach me: astridpettersen13@gmail.com
-- 🔭 I’m currently working on a flashcard-application.
-- 🌱 I’m currently learning React Native, .Net Core, Kubernetes and Docker.  
+- 🎓 Taking a master's degree in Cloud-based Services and Operations, Oslo Metropolitan University, Spring 2025
+- 🔭 I’m currently working on a school project
+- 🌱 I’m learning the Linux Command Line, Python, Java, and Docker.  
 
 ### Contact me:
 [<img align="left" alt="astrid pettersen linkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="astrid pettersen Instagram| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
